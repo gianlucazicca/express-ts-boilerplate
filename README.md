@@ -1,4 +1,4 @@
-```markdown
+
 # Express TypeScript API Boilerplate
 
 This is a boilerplate project for building Express APIs using TypeScript. It includes logging middleware with Morgan and Winston.
@@ -81,5 +81,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Author
 
 - [Gianluca Zicca](https://github.com/gianlucavz)
-
-```
